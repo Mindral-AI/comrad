@@ -1,0 +1,10 @@
+ComRAD public tools
+Copyright 2026 Federico Alessandro
+Published under the Mindral name.
+
+The model weights are distributed separately at:
+https://huggingface.co/Mindral/ComRAD-200B-GGUF
+
+ComRAD 200B is derived from Z.ai's GLM-5.3-Flash. Model-specific upstream
+attribution and license notices are available with that model release.
+This repository does not bundle model weights or third-party model source code.
