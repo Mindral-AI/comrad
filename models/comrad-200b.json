@@ -1,0 +1,11 @@
+{
+  "name": "ComRAD 200B",
+  "chat_name": "ComRAD Boreale",
+  "repository": "Mindral/ComRAD-200B-GGUF",
+  "revision": "c532184598283ba7d58f4c70aee91eaea4dc8f0c",
+  "filename": "ComRAD-Boreale-195B-Q4_K.gguf",
+  "parameters": 194927503582,
+  "bytes": 114333049568,
+  "sha256": "33bff307f7ab0fac8a331d11a6188ad0c0b37b5c37058f81fd042132f81b04c7",
+  "model_card": "https://huggingface.co/Mindral/ComRAD-200B-GGUF"
+}
